@@ -1,4 +1,8 @@
 #This is my geometry analysis code
+"""
+Function and scripts for geometry and geom_analysis
+"""
+
 import numpy as np
 import os
 import sys
